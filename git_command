@@ -1,0 +1,15 @@
+#git clone [HTTP ADDRESS]
+#cd [Name of repository]
+#make README.md file
+#git status
+#git add [filename]
+#git commit -m "blah blah"
+#git push origin master
+
+#Useful commands for Git
+#git log # Display the history of commits
+#got checkout . # Revert back all your changes since the last commit
+#git checkout [filename] # Revert all changes on a specific file since the las commit
+#git diff [filename] # display the last changes on a file since the las commit
+#git clean -dfx #remove all unexpected files in your project
+#git commit -am [message] # add all files and make a commit at the same time
