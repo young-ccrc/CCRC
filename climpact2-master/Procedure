@@ -1,0 +1,18 @@
+Procedure to run Climatepact2 R pakcage
+
+1. Copy an original AWAP data
+ - cp_awap_t.sh
+
+2. Copy a bias corrected data
+ - cp_variable.sh
+
+3. Reformat
+ - climpact_variable_temp.sh
+
+4. Set input data information
+ - climpact folder
+
+5. Check the thresholds file
+
+6. Run
+
